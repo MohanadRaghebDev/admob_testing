@@ -6,7 +6,7 @@ import 'home_screen.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await MobileAds.instance.initialize();
-
+//hello new update
   runApp(MyApp());
 }
 
