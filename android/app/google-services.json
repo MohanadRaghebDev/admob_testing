@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47127356488",
+    "project_id": "chat-fb-testing",
+    "storage_bucket": "chat-fb-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47127356488:android:630f1b6d8fc578722ee47d",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47127356488-kio90fqshkpr0n9f6g5i68aesrkudnd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQw8AGpDYIC-lxC681MBg1WEr2rINsWRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47127356488-kio90fqshkpr0n9f6g5i68aesrkudnd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
